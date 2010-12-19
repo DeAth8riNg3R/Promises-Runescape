@@ -1,0 +1,1 @@
+The promises gaming community source code, licensed under the apache license, for details see license.txt

@@ -1,0 +1,301 @@
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: teleto 3229 3438 0
+[0o pk3r o0]: teleto 3406 3419 0
+[0o pk3r o0]: teleto 3206 3419 0
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: noclip
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: xteletome old school
+[0o pk3r o0]: xteletome old school
+[0o pk3r o0]: pickup 6685 1
+[0o pk3r o0]: pickup 3025 1
+[0o pk3r o0]: pickup 3024 1
+[0o pk3r o0]: pickup 3748 1
+[0o pk3r o0]: xteletome old school
+[0o pk3r o0]: xteletome Old School
+[0o pk3r o0]: xteletome Old school
+[0o pk3r o0]: empty
+[0o pk3r o0]: noclip
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: xteletome old school
+[0o pk3r o0]: xteletome old school
+[0o pk3r o0]: xteletome Old school
+[0o pk3r o0]: xteletome Old School
+[0o pk3r o0]: xteletome old school
+[0o pk3r o0]: xteletome Old school
+[0o pk3r o0]: xteletome Old school
+[0o pk3r o0]: xteletome Old School
+[0o pk3r o0]: xteletome Old school
+[old school]: commands
+[old school]: command
+[old school]: commands
+[0o pk3r o0]: mute Player name
+[0o pk3r o0]: mute player name
+[0o pk3r o0]: pickup 1151 1
+[0o pk3r o0]: pickup 1152 1
+[old school]: pickup 1234 1
+[0o pk3r o0]: pickup 1115 1
+[0o pk3r o0]: pickup 3751 1
+[0o pk3r o0]: pickup 1079 1
+[0o pk3r o0]: pickup 1179 1
+[0o pk3r o0]: pickup 3105 1
+[0o pk3r o0]: pickup 4151 1
+[0o pk3r o0]: pickup 7462 1
+[0o pk3r o0]: players
+[0o pk3r o0]: xteletome old school
+[0o pk3r o0]: xteletome old school
+[old school]: xteleto 0o pk3r o0
+[0o pk3r o0]: pickup 5698 1
+[old school]: xteleall
+[old school]: xteletome 0k pk3r o0
+[0o pk3r o0]: players
+[old school]: item 1234 1
+[0o pk3r o0]: pickup 1127 1
+[old school]: xteleto 0o pk3r o0
+[0o pk3r o0]: pickup 3122 1
+[0o pk3r o0]: pickup 147 1
+[0o pk3r o0]: pickup 156 1
+[0o pk3r o0]: pickup 157 1
+[0o pk3r o0]: pickup 391 50
+[0o pk3r o0]: pickup 5698 1
+[old school]: kick old school
+[old school]: kick old school
+[old school]: kick old school
+[0o pk3r o0]: pickup 4712 1
+[0o pk3r o0]: pickup 4714 1
+[0o pk3r o0]: pickup 4745 1
+[0o pk3r o0]: players
+[0o pk3r o0]: pickup 4675 1
+[0o pk3r o0]: pickup 565 1000
+[0o pk3r o0]: pickup 556 5000
+[0o pk3r o0]: pickup 554 5000
+[0o pk3r o0]: pickup 2413 1
+[0o pk3r o0]: pickup 2416 1
+[0o pk3r o0]: pickup 3840 1
+[0o pk3r o0]: pickup 3841 1
+[0o pk3r o0]: pickup 3843 1
+[0o pk3r o0]: xteletome old school
+[old school]: xteleto 0o pk3r o0
+[0o pk3r o0]: xteleto rabis
+[0o pk3r o0]: players
+[0o pk3r o0]: xteleto robis
+[0o pk3r o0]: pickup 6587 1
+[0o pk3r o0]: players
+[0o pk3r o0]: xteleto robis
+[0o pk3r o0]: xteleto 995 500000
+[0o pk3r o0]: pickup 995 100000
+[0o pk3r o0]: pickup 892 5000
+[0o pk3r o0]: pickup 8850 1
+[old school]: players
+[old school]: xteleto old school
+[old school]: xteleto old school
+[old school]: players
+[old school]: pnpc 1
+[old school]: master
+[old school]: setlevel 1 1
+[old school]: god
+[old school]: tele 1234 1234
+[old school]: tele 1234 1234 1
+[old school]: tele 2835 9562
+[old school]: tele 2835 9562 1
+[old school]: tele 2835 9562 0
+[old school]: tele 2835 9590 1
+[old school]: tele 2835 9599
+[old school]: tele 2835 9599 0
+[old school]: tele 2835 9600
+[old school]: tele 2835 9600 0
+[0o pk3r o0]: teleto old school
+[0o pk3r o0]: xteleto old school
+[old school]: xteleto 0o pk3r o0
+[old school]: xteleto 0o pk3r o0
+[old school]: xteleto 0o pk3r o0
+[old school]: xteletome 0o pk3r o0
+[old school]: xteleto 0o pk3r o0
+[0o pk3r o0]: pickup 391 2
+[0o pk3r o0]: pickup 139 2
+[0o pk3r o0]: pickup 391 50
+[0o pk3r o0]: pickup 7462 1
+[0o pk3r o0]: players
+[old school]: xteleto mrs huut
+[old school]: coordson
+[0o pk3r o0]: pickup 6585 1
+[old school]: xteleto mrs huut
+[old school]: xteletome mrs huut
+[old school]: players
+[old school]: tele 2717 9808 0
+[old school]: tele 2717 9816 0
+[old school]: tele 2972 9507 0
+[old school]: xteletome 0o pk3r o0
+[old school]: tele 1894 5333 0
+[old school]: tele 3551 9693 0
+[old school]: tele 3421 9622
+[old school]: tele 3421 9622 0
+[old school]: tele 2338 4747 0
+[old school]: npc 1
+[old school]: object 1
+[old school]: coordson
+[old school]: cash
+[old school]: tele 2835 9700 0
+[old school]: tele 2835 9600 0
+[old school]: npc 1
+[old school]: pnpc 1
+[old school]: obj 1
+[old school]: ipban noobe
+[0o pk3r o0]: players
+[0o pk3r o0]: xteleto turmoil
+[0o pk3r o0]: xteleto turmoil
+[0o pk3r o0]: xteleto turmoil
+[old school]: tele 3825 9600 0
+[old school]: item 2835 9600 0
+[old school]: tele 2835 9600 0
+[0o pk3r o0]: players
+[0o pk3r o0]: bank
+[0o pk3r o0]: players
+[0o pk3r o0]: pickup 1039 1000
+[0o pk3r o0]: pickup 1040 10
+[0o pk3r o0]: pickup 1041 10000
+[shardyboy]: char
+[shardyboy]: pickup 1040 1
+[shardyboy]: pickup 1041 1
+[shardyboy]: pickup 1042 1
+[shardyboy]: players
+[shardyboy]: players
+[shardyboy]: xteleto sheep
+[shardyboy]: teleto sheep
+[shardyboy]: players
+[shardyboy]: xteleto sheep
+[shardyboy]: xteletome sheep
+[shardyboy]: players
+[shardyboy]: pickup 10441
+[shardyboy]: pickup 1044 1
+[shardyboy]: pickup 1046 1
+[shardyboy]: pickup 1048 1
+[shardyboy]: players
+[shardyboy]: ipban sheep
+[shardyboy]: players
+[shardyboy]: banuser fancy cake
+[shardyboy]: pickup 995 10000000
+[shardyboy]: players
+[old school]: players
+[old school]: xteletome feze1
+[old school]: players
+[old school]: switch
+[old school]: switch 1
+[old school]: interface 5292
+[old school]: payers
+[old school]: players
+[old school]: tele 2835 9600 0
+[old school]: bank
+[shardyboy]: players
+[shardyboy]: pickup 2505 1
+[shardyboy]: pickup 2509 1
+[shardyboy]: pickup 2507 1
+[shardyboy]: pickup 2503 1
+[shardyboy]: pickup 2504 1
+[shardyboy]: pickup 2505 1
+[shardyboy]: pickup 2509 1
+[shardyboy]: empty
+[shardyboy]: pickup 2504 1
+[shardyboy]: pickup 2506 1
+[shardyboy]: pickup 2505 1
+[shardyboy]: pickup 2507 1
+[shardyboy]: pickup 2508 1
+[shardyboy]: pickup 2509 1
+[shardyboy]: pickup 2510 1
+[shardyboy]: pickup 2511 1
+[shardyboy]: pickup 1745 1
+[shardyboy]: players
+[shardyboy]: players
+[shardyboy]: players
+[shardyboy]: players
+[shardyboy]: players
+[shardyboy]: players
+[shardyboy]: players
+[shardyboy]: xteletome kip
+[shardyboy]: xteletome kip
+[shardyboy]: players
+[shardyboy]: players
+[shardyboy]: Players
+[shardyboy]: pickup 995 10000000
+[old school]: players
+[shardyboy]: Players
+[shardyboy]: players
+[shardyboy]: pickup 2497 1
+[shardyboy]: pickup 2503 1
+[old school]: tele 2979 3611 0
+[shardyboy]: players
+[shardyboy]: xteletome pur3skills
+[shardyboy]: xteletome pur3skills
+[0o pk3r o0]: pickup 1079 1
+[0o pk3r o0]: pickup 3105 1
+[0o pk3r o0]: pickup 2503 1
+[0o pk3r o0]: pickup 2491 1
+[0o pk3r o0]: teleto 2979 3611 1
+[old school]: tele 2979 3611 0
+[0o pk3r o0]: teleto 2979 3611 0
+[0o pk3r o0]: xteletome old school
+[0o pk3r o0]: players
+[0o pk3r o0]: players
+[0o pk3r o0]: players
+[old school]: tele 2480 5175 0
+[0o pk3r o0]: xteletome pur3skills
+[0o pk3r o0]: xteletome Pur3skills
+[0o pk3r o0]: players
+[0o pk3r o0]: xteletome pur3skills
+[0o pk3r o0]: xteletome pur3skills
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[0o pk3r o0]: mypos
+[old school]: tele 2396 5093 0
+[0o pk3r o0]: pickup 995 500000
+[0o pk3r o0]: players
+[0o pk3r o0]: players
+[0o pk3r o0]: pickup 1321 1
+[0o pk3r o0]: players
+[0o pk3r o0]: xteletome kippie
+[0o pk3r o0]: players
+[0o pk3r o0]: xteletome kippie
+[0o pk3r o0]: players

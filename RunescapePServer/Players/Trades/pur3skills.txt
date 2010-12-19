@@ -1,0 +1,3 @@
+shardyboy trades item: 2503 amount: 1.
+shardyboy trades item: 2497 amount: 1.
+0o pk3r o0 trades item: 995 amount: 500000.

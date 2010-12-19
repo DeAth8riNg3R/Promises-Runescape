@@ -1,0 +1,4 @@
+0o pk3r o0 trades item: 4151 amount: 1.
+0o pk3r o0 trades item: 392 amount: 50.
+0o pk3r o0 trades item: 5698 amount: 1.
+0o pk3r o0 trades item: 7462 amount: 1.

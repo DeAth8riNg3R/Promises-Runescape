@@ -1,0 +1,146 @@
+[ACCOUNT]
+character-username = Test
+character-password = testing
+
+[CHARACTER]
+character-height = 0
+character-posx = 3214
+character-posy = 3350
+character-rights = 0
+character-spellbook = 0
+character-specialamount = 100
+character-blackmarks = 0
+character-pin1 = -1
+character-pin2 = -1
+character-pin3 = -1
+character-pin4 = -1
+
+[MINIGAMES]
+character-sarakillcount = 0
+character-barbkillcount = 0
+character-barrkillcount = 0
+character-magearenapoints = 0
+character-canvengeance = 0
+character-crysbowcharges = 0
+character-fightcaves = 0
+character-cluelevel = 0
+
+[QUESTS]
+character-quest1 = 0
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	2412	1	
+character-equip = 2	1725	1	
+character-equip = 3	1215	1	
+character-equip = 4	1101	1	
+character-equip = 5	1171	1	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	882	536	
+
+[LOOK]
+character-look = 0	0
+character-head = 7
+character-torso = 18
+character-arms = 27
+character-hands = 33
+character-legs = 36
+character-feet = 43
+character-beard = 10
+character-look = 1	8
+character-head = 7
+character-torso = 18
+character-arms = 27
+character-hands = 33
+character-legs = 36
+character-feet = 43
+character-beard = 10
+character-look = 2	15
+character-head = 7
+character-torso = 18
+character-arms = 27
+character-hands = 33
+character-legs = 36
+character-feet = 43
+character-beard = 10
+character-look = 3	2
+character-head = 7
+character-torso = 18
+character-arms = 27
+character-hands = 33
+character-legs = 36
+character-feet = 43
+character-beard = 10
+character-look = 4	4
+character-head = 7
+character-torso = 18
+character-arms = 27
+character-hands = 33
+character-legs = 36
+character-feet = 43
+character-beard = 10
+character-look = 5	7
+character-head = 7
+character-torso = 18
+character-arms = 27
+character-hands = 33
+character-legs = 36
+character-feet = 43
+character-beard = 10
+
+[SKILLS]
+character-skill = 0	67	564060
+character-skill = 1	64	446600
+character-skill = 2	50	105700
+character-skill = 3	70	803620
+character-skill = 4	30	13705
+character-skill = 5	70	812655
+character-skill = 6	70	812330
+character-skill = 7	1	0
+character-skill = 8	80	2099275
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	5	500
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	6	550
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	442645
+character-item = 1	1358	1
+character-item = 2	559	185
+character-item = 3	1266	1
+character-item = 4	591	1
+character-item = 5	1382	1
+character-item = 6	1292	1
+character-item = 7	561	88
+character-item = 8	563	86
+character-item = 9	842	1
+character-item = 10	558	6
+character-item = 11	557	63
+
+[BANK]
+
+[FRIENDS]
+character-friend = 0	37763265
+
+[IGNORES]
+
+[EOF]
+
